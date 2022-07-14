@@ -205,40 +205,6 @@ their alignment relative to FGS1 and FGS2.
 3. These observations will also provide an estimate of possible vignetting across 
 the MIRI FOV."*
 
-### PID 1448 - MIRI Stray Light Pointed Model Correlation 
-
-This program observed 8 different backgrounds to determine the contribution of stray light 
-for various NIRCam and MIRI filters. Of these, one was the Galactic Center. This is possibly
-my favorite MIRI Commissioning image. Next to the GC, low background, 1.2 minimum zodi, and 
-moderate background regions were also observed. All of them show interesting features.
-
-The Galactic Center is obviously dust heavy. Separating the 7.7 and 10-12.8 mu regions is
-difficult, but possible. A PAH filament a the edge of the imaging region is an interesting 
-feature.
-
-The Low Background and the 1.2 Minimum Zodi images highlight some really red galaxies! Notice
-the two spirals that are only visible at 10 microns in the 1.2 Minimum Zodi image!
-
-The PAH features are really evident in the moderate background region image.
-
-As noted, the point of this dataset was to measure the level of stray light in the detectors.
-To quote from the program abstract:
-
-*"The pointed stray light observations will use multiple near-IR and mid-IR filters covering 
-the spectral response of NIRCam and MIRI at 8 sky pointings. We also propose to characterize 
-the background and straylight from 0.6 to 5.3 micron over the NIRSpec field of view by means 
-of MOS observations at 3 pointings, and NIRISS imaging and grism observations at 3-5 sky 
-pointings.  The listed points (Table 1) correspond to the modeled sky pointings, one 
-corresponds with the 1.2 min Zodi ‘Benchmark’ location,  three correspond to deep field 
-locations (or low background pointings if deep field are unavailable during commissioning), 
-Continuous viewing zones and 3 pointings which explore stressing cases in the background model,*
-
-*1) when the galactic center is observed face-on, 
-2) when moderate backgrounds in Zodiacal and non-Zodiacal backgrounds are observed, and 
-3) when Zodiacal light is at maximum with a minimum in-field contribution.*
-
-*Not all pointings may be available at all times, so alternate pointings may be used."*
-
 ### PID 1464 - MIRI PSF check following MIMF recovery
 
 This image was taken as part of the optical system checkout, following MIMF (muli-instrument,
@@ -246,12 +212,3 @@ multi-field) alignment. As you can see, the PSFs are sharp for MIRI, so the OTE 
 went well. This may be less interesting than the other images, but it is still a nice image,
 so I wanted to include it, especially as it helps to understand the various instrument and
 system checkouts that were executed during commissinoning.
-
-### PID 1473 - PSF check across all SI fields of view
-
-If this image is familiar, it is because you have seen it, although not exactly like this.
-Part of this image, the 7.7 micron filter part, was used in the famous PR image that shows
-the telescope field-of-view with all instruments. Not publicly known, 5.6 micron filter image
-was also taken, thereby allowing a color combination to be made. The resulting image is 
-beautiful. I kept the small Lyot field in the top corner, as there is a nice small spiral
-galaxy in it. Enjoy!
