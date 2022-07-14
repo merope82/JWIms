@@ -30,9 +30,9 @@ as well as the time spent observing that source. This latent
 behaviour has been characterised during ground testing, but 
 will need to be checked during commissioning to verify that 
 the memory effect seen after a source has been observed on 
-the detector, is as expected.
+the detector, is as expected.*
 
-This CAR activity is designed to imprint an image on the 
+*This CAR activity is designed to imprint an image on the 
 imager and MRS detectors and analyse its decay (if any) for 
 up to 25 minutes. This is felt to be sufficient to detect 
 any large-scale changes from the on-ground behaviour. We 
@@ -68,21 +68,21 @@ unbinned images are taken to monitor the background and noise levels
 as the detectors recover (the data will be analysed off-line). 
 The first section will be repeated at regular intervals through the 
 commissioning period (and into normal operations), to assess how 
-frequently the detector anneals are required.
+frequently the detector anneals are required.*
 
-The tuning of anneal settings will only be performed for the initial 
+*The tuning of anneal settings will only be performed for the initial 
 anneals test.  This requires realtime commanding for the anneals 
 (alllowing the settings to be chosen), and OSS/APT for the exposures. 
 The settings determined from this will be transferred to OSS/APT 
 for subsequent 'standard' anneals.  The first standard anneal will 
 still use real time commanding, as this is expected to be scheduled 
-very soon after the initial anneals test. 
+very soon after the initial anneals test.*
 
-MIRI should be cold and stable, detector operating temperatures 
+*MIRI should be cold and stable, detector operating temperatures 
 optimised and stable, MIRI-002 executed successfully, and 'table 7' 
-loaded for MIRI-focussed telemetry. The CCC is closed.
+loaded for MIRI-focussed telemetry. The CCC is closed.*
 
-The first two standard anneals will use dark exposures to monitor 
+*The first two standard anneals will use dark exposures to monitor 
 the recovery. The third and fourth will use a very bright target to 
 produce saturation, allowing the removal of latent images to the 
 characterised. The fifth and final instance will use a normal 
@@ -115,9 +115,9 @@ sky flat will be measured for the first time with this measurement. Therefore
 acceptable SNR is necessary to calculate initial calibration product for the pipeline.
 The fading of the entrance mask is slightly different for the telescope background 
 in comparison with the fading of stars. Also, this flat component is filter 
-dependent, therefore all filters are to be measured.
+dependent, therefore all filters are to be measured.*
 
-This LMC field was chosen to avoid quick saturation at the shortest wavelengths 
+*This LMC field was chosen to avoid quick saturation at the shortest wavelengths 
 by >4mJy stars. The field has only one 3.2 mJy star @ 5.6um, what gives 6 groups 
 before 80% hard saturation. The limit for the longest wavelegths is the telescope 
 background."*
@@ -134,9 +134,9 @@ To quote the program abstract:
 spectrum observed by the MIRI imager. We will measure the observatory thermal 
 background in the MIRI imager’s filters at two different attitude configurations: 
 slew-to-cold and slew-to-hot. The aim is to bound the extreme cases for the 
-thermal background emission spectrum which will be seen by MIRI during science operations.
+thermal background emission spectrum which will be seen by MIRI during science operations.*
  
-There are already Goddard-led Comissioning Activites that include tests at hot/cold 
+*There are already Goddard-led Comissioning Activites that include tests at hot/cold 
 attitudes. CAR-752 and CAR-808 will keep the telescope at hot and cold attitudes for 
 4 and 14 days, respectively. The proposal is to run the two parts of this MIRI CAR after 
 the telescope has moved to the hot (slew-to-hot) and cold (slew-to-cold) position.
@@ -145,9 +145,9 @@ of the North and South Ecliptic Pole, respectively, and are alternatives to be u
 the slew-to-hot observations. The other two lie close to an ecliptic latitute of about 
 45 degress with respect to the North Ecliptic Pole, and have been selected for the 
 slew-to-cold observations. All four targets are regions of the sky that do not have 
-any obvious sources in the WISE 3-bands combined image (similar wavelength coverage to MIRI).
+any obvious sources in the WISE 3-bands combined image (similar wavelength coverage to MIRI).*
  
-To trace the SED of the background measured by MIRI we will use a suite of different 
+*To trace the SED of the background measured by MIRI we will use a suite of different 
 filters. Each of the selected filters probes a regime where a different observatory 
 component (tower, sunshield, OTE) is expected to dominate. For instance, at 12 microns 
 the sunshield emisson, that represents one of the main contributors to the thermal 
@@ -155,11 +155,11 @@ background seen by MIRI, begins to contribute. We are also adding the 7.7 micron
 filter, to measure a wavelength region that will not have significant contributions 
 from the thermal emission, but rather from the zodiacal light. Once the set of filters 
 has been used, we propose repeating the observation at 12.8 microns, to measure any 
-potential relaxation in the sunshield emission. The observing sequence will then be:
+potential relaxation in the sunshield emission. The observing sequence will then be:*
  
-F770W, F1280W, F1500W, F1800W, F2100W, F2550W and again F1280W.
+*F770W, F1280W, F1500W, F1800W, F2100W, F2550W and again F1280W.*
  
-A 2x2 mosaic with 50% overlap in the F1800W filter will allow us to evaluate the presence 
+*A 2x2 mosaic with 50% overlap in the F1800W filter will allow us to evaluate the presence 
 of spatial structure in the thermal emission at longer wavelengths, and to correlate 
 it with the measurements in all other filters. It will also provide enough coverage 
 and redundancy to apply background matching techniques to the data. Each mosaic 
@@ -197,9 +197,9 @@ As you can imagine, seeing this in April was a joyful moment for the team.
 The goals of this program were quite simple. Quoting from the program proposal:
 
 *"This proposal is to achieve better than 1 arcsec absolute pointing for MIRI during OTE 
-commissioning. It is the implemention of OTE-34.
+commissioning. It is the implemention of OTE-34.*
 
-1. Determine the geometric distortion and plate scale of the MIRI Imager and MRS and 
+*1. Determine the geometric distortion and plate scale of the MIRI Imager and MRS and 
 their alignment relative to FGS1 and FGS2. 
 2. The SOC PRD's "MIRI_SIAF.xml" are to be updated based upon these observations.
 3. These observations will also provide an estimate of possible vignetting across 
@@ -253,11 +253,3 @@ the telescope field-of-view with all instruments. Not publicly known, 5.6 micron
 was also taken, thereby allowing a color combination to be made. The resulting image is 
 beautiful. I kept the small Lyot field in the top corner, as there is a nice small spiral
 galaxy in it. Enjoy!
-
-
-
-
-
-
-
-
