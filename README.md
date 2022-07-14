@@ -231,11 +231,13 @@ of MOS observations at 3 pointings, and NIRISS imaging and grism observations at
 pointings.  The listed points (Table 1) correspond to the modeled sky pointings, one 
 corresponds with the 1.2 min Zodi ‘Benchmark’ location,  three correspond to deep field 
 locations (or low background pointings if deep field are unavailable during commissioning), 
-Continuous viewing zones and 3 pointings which explore stressing cases in the background model, 
-1) when the galactic center is observed  face-on, 2) when moderate backgrounds in Zodiacal 
-and non-Zodiacal backgrounds are observed, and 3) when Zodiacal light is at maximum with a 
-minimum in-field contribution. Not all pointings may be available at all times, so alternate 
-pointings may be used."*
+Continuous viewing zones and 3 pointings which explore stressing cases in the background model,*
+
+*1) when the galactic center is observed face-on, 
+2) when moderate backgrounds in Zodiacal and non-Zodiacal backgrounds are observed, and 
+3) when Zodiacal light is at maximum with a minimum in-field contribution.*
+
+*Not all pointings may be available at all times, so alternate pointings may be used."*
 
 ### PID 1464 - MIRI PSF check following MIMF recovery
 
