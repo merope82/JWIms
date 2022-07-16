@@ -95,7 +95,7 @@ A relatively empty region of the Large Magellanic cloud was imaged
 using ALL MIRI imaging filters to generate "sky" flat field images.
 The method was somewhat unique, dubbed the "thousand points of light",
 where the variation of each stellar source as they were dithered was
-used to measure the low-frequency component of the lat field.
+used to measure the low-frequency component of the flat field.
 Aligning the images shows what MIRI is capable of in all of its 
 filters and the production of some really nice color images (make 
 sure to zoom in on the full resolution image).
