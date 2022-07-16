@@ -93,12 +93,12 @@ the photometry recovers after an anneal has been done."*
 
 A relatively empty region of the Large Magellanic cloud was imaged
 using ALL MIRI imaging filters to generate "sky" flat field images.
-These were well dithered, allowing the images to be median combined
-to produce a relatively homogenously illuminated sky flat background
-(obviously, this is a bit more complex in reality). Aligning the
-images shows what MIRI is capable of in all of its filters and the
-production of some really nice color images (make sure to zoom in
-on the full resolution image).
+The method was somewhat unique, dubbed the "thousand points of light",
+where the variation of each stellar source as they were dithered was
+used to measure the low-frequency component of the lat field.
+Aligning the images shows what MIRI is capable of in all of its 
+filters and the production of some really nice color images (make 
+sure to zoom in on the full resolution image).
 
 To quote the program abstract:
 
