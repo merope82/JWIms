@@ -246,3 +246,13 @@ multi-field) alignment. As you can see, the PSFs are sharp for MIRI, so the OTE 
 went well. This may be less interesting than the other images, but it is still a nice image,
 so I wanted to include it, especially as it helps to understand the various instrument and
 system checkouts that were executed during commissinoning.
+
+### PID 1473 - PSF check across all SI fields of view
+
+If this image is familiar, it is because you have seen it, although not exactly like this.
+Part of this image, the 7.7 micron filter part, was used in the famous PR image that shows
+the telescope field-of-view with all instruments. Not publicly known, 5.6 micron filter image
+was also taken, thereby allowing a color combination to be made. The resulting image is 
+beautiful. I kept the small Lyot field in the top corner, as there is a nice small spiral
+galaxy in it. Enjoy!
+
